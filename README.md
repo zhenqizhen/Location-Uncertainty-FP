@@ -26,7 +26,7 @@
      When generating the database sonsidering the influence of location uncertainty, and the value of Num in the interface is set to 0. 
       If generating the database not sonsidering the influence of location uncertainty , the value of Num in the interface is set to 1
       click the Create_database(final.txt) button completes the output of the database of the required data.
-
+---attention: the exe is over 100M, to be downloaded separately!!
 5.data
 ---The data used in this experiment
 	<1>.traj
