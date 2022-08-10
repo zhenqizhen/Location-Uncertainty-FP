@@ -1,7 +1,7 @@
 # Location-Uncertainty-FP
 1.draw_traj
----Click the run button to get
-	---The database generates trajectories 1-8 and test trajectories 1-2, as shown in Figure 3
+Click the run button to get
+-The database generates trajectories 1-8 and test trajectories 1-2, as shown in Figure 3
 2.Create_database_heatmap
 ---Click the run button to get
 	---Reference database and I-A database AP 6 RSS heat map, as shown in Figure 6
