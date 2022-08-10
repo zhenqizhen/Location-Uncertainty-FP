@@ -17,6 +17,8 @@
                 ---Statistical value of positioning errors, Strategy 0, II-A1, II-A2, II-A3, II-C1, II-C2, II-C3，as shown in Table IV
 	---I-B, I-C positioning difference, weight and location unceratinty, as shown in Table III
 4.Demo_Create_Database
+---exe file, through this software, the data_for_db.txt corresponding to the fingerprint situation can be generated into the corresponding final.txt file, 
+     where 0 means that the location uncertainty is not considered, and 1 means that the location uncertainty is considered.
 ---Click the Demo_Create_Database.exe file,
      select different data_for_db.txt according to the different fingerprints of the experiment file in the \Demo\data\data_for_db&Database_final file, 
      select the ap_wifi.txt file although in the \Demo\data\data_for_db&Database_final file
@@ -24,9 +26,6 @@
      When generating the database sonsidering the influence of location uncertainty, and the value of Num in the interface is set to 0. 
       If generating the database not sonsidering the influence of location uncertainty , the value of Num in the interface is set to 1
       click the Create_database(final.txt) button completes the output of the database of the required data.
-
----exe file, through this software, the data_for_db.txt corresponding to the fingerprint situation can be generated into the corresponding final.txt file, 
-     where 0 means that the location uncertainty is not considered, and 1 means that the location uncertainty is considered.
 
 5.data
 ---The data used in this experiment
